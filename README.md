@@ -4,4 +4,4 @@
 - Julián Espinoza
 ## Grupo: Digital Vanguards
 ### Video
-[Video explicación del taller]()
+[Video explicación del taller](https://youtu.be/k7u3QVwXSNg)
